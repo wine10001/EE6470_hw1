@@ -1,6 +1,6 @@
 # Median filter and mean filter with input data buffer
 
-HW1_Q2
+HW1_Q2 : 
 Median filter and mean filter fifo module with FIFO interfaces and extra input data buffer.
 
 I choose "peppers_color.bmp", 
