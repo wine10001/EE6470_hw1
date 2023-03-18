@@ -1,2 +1,2 @@
-"median_mean_fifo" is for Q1 \n
-"input_data_buffer" is for Q2
+"median_mean_fifo" is for Q1.
+"input_data_buffer" is for Q2.
