@@ -10,6 +10,11 @@ I choose "peppers_color.bmp",
 
 Algorithm of the code is demonstrated in the report.pdf in EEclass !
 
+Outputs are four images pass through median filter and mean filter, "peppers_color_medain_mean.bmp", 
+                                                                    "peppers_color_noise_medain_mean.bmp", 
+                                                                    "woman_blonde_medain_mean.bmp" ,
+                                                                    "woman_blonde_noise_medain_mean.bmp" in "build" folder.
+
 Remaining part is showing how to run my code:
 
 1. cd build
