@@ -1,3 +1,3 @@
-# sobel_fifo
+# median_mean_fifo
 
-Sobel filter module with FIFO interfaces.
+Median filter and mean fifo module with FIFO interfaces.
