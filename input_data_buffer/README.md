@@ -10,6 +10,11 @@ I choose "peppers_color.bmp",
 
 In filter.cpp, data_buffer[3][6] is the input data buffer for storing pixels which sent from the Testbench.cpp .
 
+Outputs are four images pass through median filter and mean filter, "peppers_color_medain_mean.bmp", 
+                                                                    "peppers_color_noise_medain_mean.bmp", 
+                                                                    "woman_blonde_medain_mean.bmp" ,
+                                                                    "woman_blonde_noise_medain_mean.bmp" in "build" folder.
+
 Algorithm of the code is demonstrated in the report.pdf in EEclass !
 
 Remaining part is showing how to run my code:
