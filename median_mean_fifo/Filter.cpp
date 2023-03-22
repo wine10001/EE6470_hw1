@@ -40,7 +40,7 @@ void Filter::do_median_filter() {
     for (unsigned int v = 0; v < MASK_Y; ++v) {
       for (unsigned int u = 0; u < MASK_X; ++u) {
         for (unsigned int i = 0; i != 3; ++i) {
-          result[i] += box[i][v*3+u] * mask[u][v] / 9;
+          result[i] += box[i][v*3+u] * mask[u][v] / 10;
         }
       }
     }
